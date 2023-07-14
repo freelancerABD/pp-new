@@ -463,13 +463,16 @@ a {
     margin: 30px 0px;
   }
   .mid-section button {
-    margin-left: -72px;
+    margin-left: -38px;
   }
   .last-section .form-control {
     width: 70%;
   }
   .last-section .btn {
     margin-left: 0px;
+  }
+  .mid-section .form-control, .mid-section .form-select {
+    width: 62%;
   }
 }
 @media (min-width: 768px) {
@@ -481,7 +484,7 @@ a {
     width: 70px;
   }
   .mid-section button {
-    margin-left: -50px;
+    margin-left: -5px;
   }
   .mid-main {
     margin: 30px 0px;
@@ -492,7 +495,9 @@ a {
   .last-section .btn {
     margin-left: 0px;
   }
-
+  .mid-section .form-control, .mid-section .form-select {
+    width: 62%;
+  }
 }
 @media (min-width: 992px) {
   .tool .t-header{
@@ -518,12 +523,15 @@ a {
   .mid-main {
     margin: 0px;
   }
+  .mid-section .form-control, .mid-section .form-select {
+    width: 70%;
+  }
   .mid-section button {
-    margin-left: -20px;
+    margin-left: 0px;
   }
   .last-section .form-control{
-  width: 84%;
- }
+    width: 82%;
+   }
  .last-section .btn{
   margin-left: 0px;
  }
@@ -563,6 +571,9 @@ a {
   }
   .mid-section button {
     margin-left: 0px;
+  }
+  .mid-section .form-control, .mid-section .form-select {
+    width: 75%;
   }
   .last-section .form-control{
   width: 84%;
