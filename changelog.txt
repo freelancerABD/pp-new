@@ -1,0 +1,59 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+
+## [1.0.0] - 06-07-2023
+
+### Inital Release
+
+- Reupload of archived version
+
+
+
+## [1.1.0] - 06-07-2023
+
+### Added
+
+- War galleon to ship list
+- War galleon ship damage data
+- War galleon ship images
+
+
+
+## [1.2.0] - 07-07-2023
+
+### Added
+
+- "Copy Score and SF Rows to Clipboard" function
+
+
+
+## [1.3.0] - 07-07-2023
+
+### Added
+
+- Webpage versioning
+- Changelog webpage
+
+
+
+## [1.3.1] - 08-07-2023
+
+### Changed
+
+- "Hit Rocks" buttons renamed to "Hit Rocks/Edge"
+
+
+
+## [1.4.0] - 08-07-2023
+
+### Added
+
+- "Copy Score" button
+
+### Changed
+
+- "Copy Score and Rows" button changed to "Copy Score & Rows"

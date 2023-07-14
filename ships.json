@@ -1,0 +1,114 @@
+{
+	"sloop": {
+		"size":"small",
+		"shots":"small",
+		"sf":"6",
+		"hp":"10",
+		"ram":"0.5"
+	},
+
+	"cutter": {
+		"size":"small",
+		"shots":"small",
+		"sf":"7.5",
+		"hp":"12",
+		"ram":"0.5"
+	},
+
+	"dhow": {
+		"size":"small",
+		"shots":"medium",
+		"sf":"7.5",
+		"hp":"12",
+		"ram":"0.5"
+	},
+
+	"fanchuan": {
+		"size":"small",
+		"shots":"large",
+		"sf":"7.8",
+		"hp":"13",
+		"ram":"0.5"
+	},
+
+	"longship": {
+		"size":"medium",
+		"shots":"small",
+		"sf":"9",
+		"hp":"15",
+		"ram":"0.5"
+	},
+
+	"baghlah": {
+		"size":"medium",
+		"shots":"medium",
+		"sf":"12",
+		"hp":"20",
+		"ram":"1"
+	},
+
+	"mb": {
+		"size":"medium",
+		"shots":"medium",
+		"sf":"12",
+		"hp":"20",
+		"ram":"1"
+	},
+
+	"junk": {
+		"size":"medium",
+		"shots":"large",
+		"sf":"15",
+		"hp":"25",
+		"ram":"1.5"
+	},
+
+	"wb": {
+		"size":"medium",
+		"shots":"medium",
+		"sf":"15",
+		"hp":"25",
+		"ram":"2"
+	},
+
+	"mg": {
+		"size":"large",
+		"shots":"large",
+		"sf":"18",
+		"hp":"30",
+		"ram":"2.5"
+	},
+	
+	"wg": {
+        "size":"large",
+        "shots":"large",
+        "sf":"15",
+        "hp":"25",
+        "ram":"2.5"
+	},
+
+	"xebec": {
+		"size":"large",
+		"shots":"medium",
+		"sf":"21",
+		"hp":"30",
+		"ram":"2.5"
+	},
+
+	"wf": {
+		"size":"large",
+		"shots":"large",
+		"sf":"30",
+		"hp":"50",
+		"ram":"3"
+	},
+
+	"gf": {
+		"size":"grand",
+		"shots":"large",
+		"sf":"36",
+		"hp":"60",
+		"ram":"4"
+	}
+
+}
